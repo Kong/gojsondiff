@@ -24,9 +24,10 @@ THE SOFTWARE.
 
 This repository is build with following third party libraries. Thank you!
 
-## go-diff - https://github.com/sergi/go-diff
+## go-diff - https://github.com/Kong/go-diff
 
 Copyright (c) 2012 Sergi Mansilla <sergi.mansilla@gmail.com>
+Copyright (c) 2021 Boyu Guo <iambus@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),

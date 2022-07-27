@@ -21,7 +21,7 @@ func main() {
 
 	app.Action = func(c *cli.Context) {
 		if len(c.Args()) < 2 {
-			fmt.Println("Not enough arguments.\n")
+			fmt.Println("Not enough arguments.")
 			fmt.Printf("Usage: %s diff json_file\n", app.Name)
 			os.Exit(1)
 		}

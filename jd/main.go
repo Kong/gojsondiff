@@ -39,7 +39,7 @@ func main() {
 
 	app.Action = func(c *cli.Context) error {
 		if len(c.Args()) < 2 {
-			fmt.Println("Not enough arguments.\n")
+			fmt.Println("Not enough arguments.")
 			fmt.Printf("Usage: %s json_file another_json_file\n", app.Name)
 			os.Exit(1)
 		}

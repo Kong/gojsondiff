@@ -1,3 +1,6 @@
+# github.com/Kong/go-diff v1.2.2
+## explicit; go 1.12
+github.com/Kong/go-diff/diffmatchpatch
 # github.com/adrg/strutil v0.2.3
 ## explicit; go 1.14
 github.com/adrg/strutil
@@ -41,12 +44,17 @@ github.com/onsi/gomega/matchers/support/goraph/edge
 github.com/onsi/gomega/matchers/support/goraph/node
 github.com/onsi/gomega/matchers/support/goraph/util
 github.com/onsi/gomega/types
-# github.com/sergi/go-diff v0.0.0-20170118131230-24e2351369ec
-## explicit
+# github.com/sergi/go-diff v1.2.0
+## explicit; go 1.12
 github.com/sergi/go-diff/diffmatchpatch
 # github.com/urfave/cli v1.19.2-0.20170215051705-2526b57c56f3
 ## explicit
 github.com/urfave/cli
+# github.com/yudai/gojsondiff v1.0.0
+## explicit
+github.com/yudai/gojsondiff
+github.com/yudai/gojsondiff/formatter
+github.com/yudai/gojsondiff/tests
 # github.com/yudai/golcs v0.0.0-20150405163532-d1c525dea8ce
 ## explicit
 github.com/yudai/golcs

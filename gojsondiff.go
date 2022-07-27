@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"sort"
 
+	dmp "github.com/Kong/go-diff/diffmatchpatch"
 	"github.com/adrg/strutil"
 	"github.com/adrg/strutil/metrics"
-	dmp "github.com/sergi/go-diff/diffmatchpatch"
 	lcs "github.com/yudai/golcs"
 )
 
